@@ -1,2 +1,46 @@
-Link para download do Git:  https://git-scm.com/downloads
-O Git Bash é um terminal extendido para otimizar o uso do Git.
+O que aprendi com essa ferratenta de versionamento (Git):
+
+Comandos básicos-
+
+ . Git help <comando> (mostra a documentação dele);
+ . Git init (cria um repositório no diretório atual);
+ . Git add (deixa os arquivos e repositórios prontos para serem commitados);
+ . Git commit -m (realiza commits);
+ . Git status (mostra o status do repositório);
+ . Git remote add origin <URL>(adiciona a origem do repositório local para o repositório remoto);
+ . Git remote -V (mostra a lista dos repositórios locais e para onde eles estão apontados no repositório remoto);
+ . Git push (manda o repositório para o Github);
+ . Git Pull origin <file>(puxa um arquivo do Github para o repositório local);
+ . Git clone <path_file> (clona um repositório do Github).
+
+Configurações básicas;
+
+ . Git config --Global;
+ . Criar chaves SSH e Token.
+
+Também pude pesquisar mais sobre o assunto e aprender mais comandos sobre o Git, como:
+
+ . Git log;
+ . Git diff (exibe diferenças entre commites e branchs);
+  . Git diff HEAD~1 (mostra o que foi alterado no último commit);
+ . Git checkout <commit> (altera o repositório para o estado daquele commit);
+ . Git checkout master (para voltar o repositório no último commit);
+ . Git checkout -- <path_or_file> (irá desfazer todas alterações que não estejam no Stage desde o último commit);
+ . Git checkout HEAD -- <path_file> (desfaz as alterações desde o último commit incluindo o Stage);
+ . Git revert <commit> (irá criar um novo commit que defaz as alterações do commit especificado);
+ . Git reset <commit> (reseta o repositório para um determinado commit);
+ . Git reset --hard <commit> (reseta e remove todas as alterações);
+ . Git branch <nova_branch> (cria uma nova branch);
+ . Git branch -d (exclui uma branch);
+ . Git checkout <branch> (muda para a branch);
+ . Git merge <branch> (aplica os commits de uma branch na branch atual);
+ . Git rebase <branch> (semelhante ao merge porém é diferente na ordem de aplicar commits);
+ . Git fetch (baixa as atualizações do remote porém não aplica elas no repositório, permite fazer o rebase de uma branch em vez de fazer o merge);
+ . Git tag (guarda um estado do repositório);
+ . Git fetch origin pull/ID/HEAD:BRANCH (cria uma branch com os commits do pull request);
+ . Git commit -ammend (altera o último commit);
+ . Git stash (guarda as alterações do Working Directory, permite fazer rebase, merge, trocar de branch sem a necessidade de fazer um commit);
+ . Git stash pop (aplica o último stash armazenado);
+ . Git cerrypick <commit> (aplica as alterações de um commit na branch atual);
+ . Git blame (mostra as alterações feitas em um arquivo por linha);
+ . Git bisect (permite fazer uma busca binária nos commits para encontrar uma alteração).
