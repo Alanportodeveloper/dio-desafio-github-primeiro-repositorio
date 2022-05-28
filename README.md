@@ -27,7 +27,7 @@ Com as aulas de Git e Github, pude aprender:
  . Git help;
 
 . Git log;
- . Git diff;https://www.ratamero.com/blog/assets/git-and-github-logos.png
+ . Git diff;
   . Git diff HEAD~1;
  . Git checkout <commit>;
  . Git checkout master;
