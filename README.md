@@ -1,11 +1,10 @@
-# Desafio de projeto sobre Git/Github da Dio
-Repositório criado para o desafio de projeto.
+# Desafio de projeto sobre Git/Github da Dio 
+
+### _Repositório criado para o desafio de projeto_ .
 
 Com as aulas de Git e Github, pude aprender:
 
-Comandos básicos-
-
- . Git help;
+## Comandos básicos-
 
  . Git init;
  . Git add;
@@ -16,14 +15,16 @@ Comandos básicos-
  . Git push;
  . Git Pull.
 
-Configurações básicas;
+## Configurações básicas;
 
  . Git config --Global;
  . Criar chves SSh e TOKEN.
 
-Também pude pesquisar mais sobre o assunto e aprender mais comandos sobre o Git, como:
+### Também pude pesquisar mais sobre o assunto e aprender mais comandos sobre o Git, como:
 
- . Git log;
+ . Git help;
+
+. Git log;
  . Git diff;
   . Git diff HEAD~1;
  . Git checkout <commit>;
@@ -51,4 +52,4 @@ Também pude pesquisar mais sobre o assunto e aprender mais comandos sobre o Git
 
 ## Links Úteis
 [Link para Download do Git](https://git-scm.com/downloads)
-Comando para instalação no Linux: sudo apt-get install git
+## Comando para instalação no Linux: sudo apt-get install git
