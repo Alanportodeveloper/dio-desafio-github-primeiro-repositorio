@@ -20,7 +20,7 @@ Configurações básicas;
 Também pude pesquisar mais sobre o assunto e aprender mais comandos sobre o Git, como:
 
  . Git help <comando> (mostra a documentação dele);
- . Git log;
+ . Git log (mostra os commits que foram feitos);
  . Git diff (exibe diferenças entre commites e branchs);
   . Git diff HEAD~1 (mostra o que foi alterado no último commit);
  . Git checkout <commit> (altera o repositório para o estado daquele commit);
