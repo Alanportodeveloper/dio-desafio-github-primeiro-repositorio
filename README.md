@@ -51,6 +51,10 @@ Com as aulas de Git e Github, pude aprender:
  . Git blame;
  . Git bisect.
 
+## Configurações básicas;
+
+ . Configurar um colaborador para um repositório.
+
 
 ## Links Úteis
 [Link para Download do Git](https://git-scm.com/downloads)

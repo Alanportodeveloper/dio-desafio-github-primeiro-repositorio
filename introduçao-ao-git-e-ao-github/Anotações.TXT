@@ -44,3 +44,7 @@ Também pude pesquisar mais sobre o assunto e aprender mais comandos sobre o Git
  . Git cerrypick <commit> (aplica as alterações de um commit na branch atual);
  . Git blame (mostra as alterações feitas em um arquivo por linha);
  . Git bisect (permite fazer uma busca binária nos commits para encontrar uma alteração).
+ 
+ Configurações básicas;
+ 
+ Configurar um colaborador para um repositório.
