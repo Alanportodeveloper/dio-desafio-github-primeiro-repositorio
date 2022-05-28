@@ -1,4 +1,6 @@
-# Desafio de projeto sobre Git/Github da Dio 
+# Desafio de projeto sobre Git/Github da Dio   
+
+# ![imagem do git e github!](https://www.ratamero.com/blog/assets/git-and-github-logos.png)
 
 ### _Repositório criado para o desafio de projeto_ .
 
@@ -25,7 +27,7 @@ Com as aulas de Git e Github, pude aprender:
  . Git help;
 
 . Git log;
- . Git diff;
+ . Git diff;https://www.ratamero.com/blog/assets/git-and-github-logos.png
   . Git diff HEAD~1;
  . Git checkout <commit>;
  . Git checkout master;
