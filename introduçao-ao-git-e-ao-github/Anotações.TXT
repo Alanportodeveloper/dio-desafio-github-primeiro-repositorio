@@ -8,7 +8,7 @@ Comandos básicos-
  . Git status (mostra o status do repositório);
  . Git remote add origin <URL>(adiciona a origem do repositório local para o repositório remoto);
  . Git remote -V (mostra a lista dos repositórios locais e para onde eles estão apontados no repositório remoto);
- . Git push (manda o repositório para o Github);
+ . Git push (envia alterações (commits) de uma branch para o repositório remoto);
  . Git Pull origin <file>(puxa um arquivo do Github para o repositório local);
  . Git clone <path_file> (clona um repositório do Github).
 
